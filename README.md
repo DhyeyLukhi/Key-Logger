@@ -80,7 +80,7 @@ pip install keyboard pyautogui pynput
 Run the application:
 
 ```bash
-python main.py
+python keylogged.py
 ```
 
 The program starts:
