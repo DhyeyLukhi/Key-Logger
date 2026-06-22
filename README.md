@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="assets/logo.png">
-</p>
-
-
 # ⌨️ Keyboard & Mouse Activity Logger
 
 Monitor keyboard and mouse activity using Python while exploring concepts such as event handling, threading, system monitoring, and log management.
